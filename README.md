@@ -6,7 +6,7 @@ Three games in one self-contained HTML file, by GoBoomTV.
 - **Gem Roll**: Zuma-style. Adventure, Zen, Blitz, Extreme, Pointers, Challenge, Boss Battle and Daily.
 - **Boom Pegs** (working title): Peggle-style, with bar pegs, free balls and pet powers.
 
-Current version: **v0.36.7a**. The full history is in the in-game Update History.
+Current version: **v0.36.8a**. The full history is in the in-game Update History.
 
 ## Run it
 Open `index.html` in a browser. There is nothing to build.
